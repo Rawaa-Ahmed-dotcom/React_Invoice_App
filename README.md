@@ -46,10 +46,10 @@ npm run dev
 
 ## 🧠 Key Features
 
-✅ Create, edit, and delete invoices
-✅ Manage client and payment status
-✅ Fully responsive UI with TailwindCSS
-✅ Global state management using Redux Toolkit
-✅ Fast & lightweight mock API via JSON Server
-✅ Deployed seamlessly using Vercel & Railway
+- ✅ Create, edit, and delete invoices
+- ✅ Manage client and payment status
+- ✅ Fully responsive UI with TailwindCSS
+- ✅ Global state management using Redux Toolkit
+- ✅ Fast & lightweight mock API via JSON Server
+- ✅ Deployed seamlessly using Vercel & Railway
 

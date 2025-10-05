@@ -7,7 +7,7 @@ The frontend is deployed on **Vercel** for fast and reliable performance.
 
 ## 🚀 Live Demo
 
-🔗 **Frontend (Vercel):** [https://your-vercel-link.vercel.app](https://react-invoice-app-indol.vercel.app/)  
+🔗 **Frontend (Vercel):** [https://react-invoice-app-indol.vercel.app/](Click me)  
 ---
 
 ## 🧠 Tech Stack
